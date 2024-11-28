@@ -1,0 +1,8 @@
+﻿numpy
+librosa
+tensorflow
+fastapi
+uvicorn
+mangum
+huggingface_hub
+keras
